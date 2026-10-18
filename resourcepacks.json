@@ -6,12 +6,6 @@
   "allowedExtra": [],
   "files": [
     {
-      "file": "DLxAN_1.21.1.zip",
-      "sha1": "c4a5d34feee9e16fb07522d77b2aaad4758d1ecb",
-      "size": 4203,
-      "side": "both"
-    },
-    {
       "file": "Enchantment Descriptions 1.2.zip",
       "sha1": "aba81abffa8a995f5d2713e6af62f21b8accd57b",
       "size": 104632,
@@ -111,12 +105,6 @@
       "file": "Visual Effects+.zip",
       "sha1": "20365db0e8ee5cebf96c579f52a99769859acde9",
       "size": 22829210,
-      "side": "both"
-    },
-    {
-      "file": "§eExtended_Illumina_1.21x.zip",
-      "sha1": "315b269e59023f5211ff6acd0a6461bb24010a34",
-      "size": 5035,
       "side": "both"
     }
   ]
