@@ -6,12 +6,6 @@
   "allowedExtra": [],
   "files": [
     {
-      "file": "Charm_BetterNether_integration_v5.zip",
-      "sha1": "f88fa3c076347720534923b736eafc8ea7e88c42",
-      "size": 196857,
-      "side": "both"
-    },
-    {
       "file": "DLxAN_1.21.1.zip",
       "sha1": "c4a5d34feee9e16fb07522d77b2aaad4758d1ecb",
       "size": 4203,
