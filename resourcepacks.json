@@ -4,5 +4,48 @@
   "baseUrl": "https://raw.githubusercontent.com/Fantobus/resourcepacks/main/",
   "mode": "additive",
   "allowedExtra": [],
-  "files": []
+  "files": [
+    {
+      "file": "-1.21.2-Fresh-Moves-v3.1-No-Animated-Eyes.zip",
+      "sha1": "2cb70d79e64504d0d6641271c067df9b1e495ab8",
+      "size": 251791,
+      "side": "both"
+    },
+    {
+      "file": "MI Item Retextured.zip",
+      "sha1": "6737a3f3e4f7e2258bf8ae5b8ee494277f30107d",
+      "size": 7452830,
+      "side": "both"
+    },
+    {
+      "file": "MI Machines Retextured.zip",
+      "sha1": "7771471b1c0a83c2517985ee3453af6872a2f508",
+      "size": 1428067,
+      "side": "both"
+    },
+    {
+      "file": "boss-refreshed-v1.4.zip",
+      "sha1": "4339179524f42f45371dcbe296313d690dc1fab4",
+      "size": 408858,
+      "side": "both"
+    },
+    {
+      "file": "ctov-farmers-delight-compat-v1-2.zip",
+      "sha1": "78d84d608d904d8ca8b331937d6cf3da0cb4fef5",
+      "size": 94499,
+      "side": "both"
+    },
+    {
+      "file": "freshanimations_v1.9.2.zip",
+      "sha1": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2",
+      "size": 516256,
+      "side": "both"
+    },
+    {
+      "file": "§eExtended_Illumina_1.19x.zip",
+      "sha1": "35f20cbb53ac8ecd537c8e710214df47239c9a27",
+      "size": 4864,
+      "side": "both"
+    }
+  ]
 }
