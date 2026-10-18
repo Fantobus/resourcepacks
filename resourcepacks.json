@@ -1,6 +1,6 @@
 {
   "type": "resourcepacks",
-  "minecraft": "1.21.1",
+  "minecraft": "1.19.2",
   "baseUrl": "https://raw.githubusercontent.com/Fantobus/resourcepacks/main/",
   "mode": "additive",
   "allowedExtra": [],
