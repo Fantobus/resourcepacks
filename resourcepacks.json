@@ -6,18 +6,6 @@
   "allowedExtra": [],
   "files": [
     {
-      "file": "Supplementaries Compat 1.0.zip",
-      "sha1": "db2a9445e94043d32eb69ba0c3dcec0ff1612adb",
-      "size": 48485,
-      "side": "both"
-    },
-    {
-      "file": "The Brazilian Project [1.21.1-1.3.0].zip",
-      "sha1": "06496e3b47f4afa3158cdcd2b86338eb94b7583c",
-      "size": 2135319,
-      "side": "both"
-    },
-    {
       "file": "The Rename Compat Project.zip",
       "sha1": "b77b2536ad5a0b391d4b7a5275f5dd7a1295545d",
       "size": 2352026,
